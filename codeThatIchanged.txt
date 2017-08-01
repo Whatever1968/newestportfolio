@@ -1,0 +1,153 @@
+  <div class="avatar">
+                    <img class="avatar__img responsive-img" src="http://placehold.it/300x300" alt="Avatar"/>
+                </div>
+.skills-display {
+.skills-display {
+.skills-display {
+.skills-display {
+section id="skill" class="wrapper box_blur skills-display display
+
+https://pbs.twimg.com/profile_images/776835299695468544/m3QW1Rfh_400x400.jpg
+
+<div class="about-me__column">
+                        <a href="#" target="blank" class="icon icon_middle icon_rounded icon_rounded-black icon_rounded-hover icon-facebook about-me__icon layer" data-show-effect="flipInY" data-show-delay="900"></a>
+
+1920x1080
+1920x1080
+1920x1080
+
+Arriana
+<img src="smiley.gif" class="responsive-img" alt="Work" />
+<img src="smiley.gif" alt="Smiley face" height="42" width="42">
+
+
+
+https://rodthefrog.wordpress.com/
+https://rodthefrog.wordpress.com/
+http://jonahmelvon.com/
+
+
+title it: blog480x480.jpg
+title it: blog480x480.jpg
+
+yay480x480
+yay480x480
+yay480x480
+img/yay480x480.jpg
+img/yay480x480.jpg
+img/yay480x480.jpg
+
+img/hands480x480.jpg
+img/hands480x480.jpg
+img/hands480x480.jpg
+
+img/blog1200x500.jpg
+img/blog1200x500.jpg
+img/blog1200x500.jpg
+
+img/teen1200x500.jpg
+img/teen1200x500.jpg
+img/teen1200x500.jpg
+
+img/port1200x500.jpg
+img/port1200x500.jpg
+img/port1200x500.jpg
+
+
+img/cam480x480.jpg
+img/cam480x480.jpg
+
+img/hands1200x500.jpg
+img/hands1200x500.jpg
+img/hands1200x500.jpg
+
+img/amazon1200X500.jpg
+img/amazon1200X500.jpg
+img/amazon1200X500.jpg
+img/amazon1200X500.jpg
+img/amazon960x960.jpg
+img/amazon960x960.jpg
+
+
+
+
+
+
+
+
+
+
+*************************************
+
+			<a href="#" class="list-works__item layer open-popup_js" data-show-effect="fadeIn" data-show-delay="1000" data-id="mrt">
+				<div class="list-works__wrap-img">
+					<img src="http://placehold.it/480x480" class="responsive-img" alt="Work" />
+
+img/google480x480.jpg
+img/google480x480.jpg
+
+img/leo480x480.jpg
+img/leo480x480.jpg 
+img/leo480x480.jpg
+img/tree480x480.jpg
+img/tree480x480.jpg
+img/tree480x480.jpg
+
+img/bridge480x480.jpg
+img/bridge480x480.jpg
+img/bridge480x480.jpg
+
+img/land1200x500.jpg
+img/land1200x500.jpg
+
+
+img/google1200x500.jpg
+img/google1200x500.jpg
+img/google1200x500.jpg
+google/index.html
+google/index.html
+rodneyTrevino/index.html
+
+><a href="friend/index.html" class="btn">View site</a></div>
+><a href="google/index.html" class="btn">View site</a></div>
+><a href="zodiac/index.html" class="btn">View site</a></div>
+><a href="tony/index.html" class="btn">View site</a></div>
+><a href="quiz-master/index.html" class="btn">View site</a></div>
+
+
+img/woman1200x500.jpg
+img/woman1200x500.jpg
+img/woman1200x500.jpg
+woman1200x500
+woman1200x500
+
+
+
+
+https://github.com/bmgdev/responsive-wedding
+https://github.com/bmgdev/responsive-wedding
+
+wedding template
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
